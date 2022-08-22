@@ -1,0 +1,8 @@
+this is a simple easy vim tutorial
+this is a simple easy vim tutorial 
+this is a simple easy vim tutorial 
+this is a simple easy vim tutorial 
+this is a simple easy vim tutorial 
+for (let i = 0; i < 10; i++){
+	console.log(i);
+}
